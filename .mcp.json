@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "store-policies": {
+      "command": "uv",
+      "args": ["run", "--directory", ".", "server.py"]
+    }
+  }
+}

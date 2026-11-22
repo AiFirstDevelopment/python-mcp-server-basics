@@ -1,0 +1,16 @@
+[project]
+name = "python-mcp-server-basics"
+version = "0.1.0"
+description = "A minimal MCP server in Python: one tool and one resource, connected to Claude Code."
+requires-python = ">=3.13"
+dependencies = [
+    "mcp>=2.3.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

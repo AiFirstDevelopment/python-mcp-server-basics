@@ -1,0 +1,13 @@
+Returns and refunds. This is a sample policy for a fictional store, Trailhead Outfitters.
+
+You can return any unused item within 30 days of delivery for a full refund. The item must be in its original packaging with the tags attached. A refund goes back to the original payment method within 5 business days of the item reaching our warehouse. We email you when the refund is issued, and your bank may take a few more days to show it.
+
+To start a return, sign in to your account, open the order and choose Return an item. Pick the items and a reason for each. We email a prepaid shipping label within one hour. Print it, attach it to the box and drop the box at any carrier location. You can also return an item at any of our stores; bring the order number or the email receipt. Store returns are refunded on the spot to the original payment method.
+
+The 30-day window starts on the day the carrier marks the package as delivered. For orders shipped in several packages, each package has its own window. If the last day of the window falls on a holiday, you have until the next business day. We do not accept returns that reach the warehouse after the window has closed, even when the label was printed before it.
+
+Exceptions. Sale items, marked Final Sale or bought at 30 percent off or more, can be returned within 14 days and are refunded as store credit, never to the original payment method. Gift cards, opened food, and personalized or engraved items cannot be returned at all. Items marked Clearance cannot be returned or exchanged.
+
+Damaged or wrong items are different: you can return them at any time within 90 days, at no cost, for a full refund to the original payment method, whatever the price paid. Choose It arrived damaged or Wrong item when you start the return and attach a photo of the item and the packing slip. We may ask you to keep the item instead of sending it back.
+
+Exchanges. To exchange an item for another size or color, start a return for the item and place a new order. We do not hold stock for exchanges, so order the replacement first if it is likely to sell out. Exchanges of sale items follow the sale item rules above.
